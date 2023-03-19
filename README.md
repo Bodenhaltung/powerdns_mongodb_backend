@@ -1,4 +1,16 @@
-# powerdns_mongodb_backend
+# mongoDB PowerDNS Backend
+
+WIP / Proof of Concept
+
+First Version and forked from https://github.com/lanbugs/powerdns_mongodb_backend.
+
+ToDo:
+ - Check current Code / run it
+ - Rewrite for Python3
+ - Implement DNSSEC
+
+#### Original README:
+powerdns_mongodb_backend
 
 More informations on: https://lanbugs.de/howtos/python-co/powerdns-mongodb-backend/
 
